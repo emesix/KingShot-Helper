@@ -1,0 +1,20 @@
+{
+  "levels": [
+    {"level": 1,  "guides": 5,   "designs": 5,   "power": 205700},
+    {"level": 2,  "guides": 40,  "designs": 15,  "power": 288000},
+    {"level": 3,  "guides": 60,  "designs": 40,  "power": 370000},
+    {"level": 4,  "guides": 80,  "designs": 100, "power": 452000},
+    {"level": 5,  "guides": 100, "designs": 200, "power": 576000},
+    {"level": 6,  "guides": 120, "designs": 300, "power": 700000},
+    {"level": 7,  "guides": 140, "designs": 400, "power": 824000},
+    {"level": 8,  "guides": 200, "designs": 400, "power": 948000},
+    {"level": 9,  "guides": 300, "designs": 400, "power": 1072000},
+    {"level": 10, "guides": 420, "designs": 420, "power": 1196000},
+    {"level": 11, "guides": 560, "designs": 420, "power": 1320000},
+    {"level": 12, "guides": 580, "designs": 600, "power": null},
+    {"level": 13, "guides": 610, "designs": 780, "power": null},
+    {"level": 14, "guides": 645, "designs": 960, "power": null}
+  ],
+  "max_level": 22,
+  "tc_required": 25
+}

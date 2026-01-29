@@ -1,0 +1,18 @@
+{
+  "imbuement_requirements": {
+    "mythic_gears": 2,
+    "mastery_level": 10,
+    "tc_level": 30
+  },
+  "red_blocks": [
+    {"from_level": 100, "to_level": 120, "mithril": 10, "mythic_gears": 3},
+    {"from_level": 120, "to_level": 140, "mithril": 20, "mythic_gears": 5},
+    {"from_level": 140, "to_level": 160, "mithril": 30, "mythic_gears": 5},
+    {"from_level": 160, "to_level": 180, "mithril": 40, "mythic_gears": 10},
+    {"from_level": 180, "to_level": 200, "mithril": 50, "mythic_gears": 10}
+  ],
+  "totals": {
+    "mithril": 150,
+    "mythic_gears": 35
+  }
+}

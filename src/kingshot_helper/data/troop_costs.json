@@ -1,0 +1,38 @@
+{
+  "per_unit": {
+    "1":  {"infantry": {"bread": 36,   "wood": 27,   "stone": 7,   "iron": 2},
+           "archer":   {"bread": 23,   "wood": 34,   "stone": 6,   "iron": 2},
+           "cavalry":  {"bread": 32,   "wood": 30,   "stone": 7,   "iron": 2}},
+    "2":  {"infantry": {"bread": 72,   "wood": 54,   "stone": 14,  "iron": 4},
+           "archer":   {"bread": 46,   "wood": 68,   "stone": 12,  "iron": 4},
+           "cavalry":  {"bread": 64,   "wood": 60,   "stone": 14,  "iron": 4}},
+    "3":  {"infantry": {"bread": 144,  "wood": 108,  "stone": 28,  "iron": 8},
+           "archer":   {"bread": 92,   "wood": 136,  "stone": 24,  "iron": 8},
+           "cavalry":  {"bread": 128,  "wood": 120,  "stone": 28,  "iron": 8}},
+    "4":  {"infantry": {"bread": 216,  "wood": 162,  "stone": 42,  "iron": 12},
+           "archer":   {"bread": 138,  "wood": 204,  "stone": 36,  "iron": 12},
+           "cavalry":  {"bread": 192,  "wood": 180,  "stone": 42,  "iron": 12}},
+    "5":  {"infantry": {"bread": 350,  "wood": 263,  "stone": 61,  "iron": 18},
+           "archer":   {"bread": 218,  "wood": 323,  "stone": 54,  "iron": 18},
+           "cavalry":  {"bread": 306,  "wood": 287,  "stone": 60,  "iron": 14}},
+    "6":  {"infantry": {"bread": 560,  "wood": 420,  "stone": 98,  "iron": 28},
+           "archer":   {"bread": 348,  "wood": 516,  "stone": 87,  "iron": 28},
+           "cavalry":  {"bread": 490,  "wood": 459,  "stone": 96,  "iron": 22}},
+    "7":  {"infantry": {"bread": 840,  "wood": 630,  "stone": 147, "iron": 42},
+           "archer":   {"bread": 522,  "wood": 774,  "stone": 130, "iron": 42},
+           "cavalry":  {"bread": 735,  "wood": 689,  "stone": 144, "iron": 33}},
+    "8":  {"infantry": {"bread": 1260, "wood": 945,  "stone": 220, "iron": 63},
+           "archer":   {"bread": 783,  "wood": 1161, "stone": 195, "iron": 63},
+           "cavalry":  {"bread": 1103, "wood": 1033, "stone": 217, "iron": 50}},
+    "9":  {"infantry": {"bread": 1890, "wood": 1418, "stone": 330, "iron": 95},
+           "archer":   {"bread": 1175, "wood": 1742, "stone": 293, "iron": 95},
+           "cavalry":  {"bread": 1654, "wood": 1550, "stone": 325, "iron": 75}},
+    "10": {"infantry": {"bread": 2804, "wood": 2091, "stone": 488, "iron": 253},
+           "archer":   {"bread": 1740, "wood": 2579, "stone": 433, "iron": 140},
+           "cavalry":  {"bread": 2451, "wood": 2295, "stone": 481, "iron": 111}}
+  },
+  "training_time_seconds": {
+    "1": 12, "2": 17, "3": 24, "4": 32, "5": 44,
+    "6": 60, "7": 83, "8": 113, "9": 131, "10": 152
+  }
+}

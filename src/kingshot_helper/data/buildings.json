@@ -1,0 +1,34 @@
+{
+  "max_levels": {
+    "standard": 30,
+    "limited": 10
+  },
+  "standard_buildings": [
+    "town_center", "barracks", "stable", "range", "academy",
+    "infirmary", "embassy", "storehouse", "command_center",
+    "sawmill", "mill", "quarry", "iron_mine"
+  ],
+  "limited_buildings": [
+    "kitchen", "house", "clinic", "barricade", "defense_tower", "guard_station"
+  ],
+  "truegold_buildings": [
+    "town_center", "barracks", "stable", "range",
+    "infirmary", "embassy", "command_center"
+  ],
+  "truegold_max_tier": 8,
+  "truegold_sublevels_per_tier": 5,
+  "tc_unlocks": {
+    "9":  "Stable (Cavalry)",
+    "22": "Governor Gear",
+    "25": "Governor Charms",
+    "26": "Hero Level 80",
+    "30": "Red Gear Imbue / Age of Truegold"
+  },
+  "tc_total_resources": {
+    "bread": 1300000000,
+    "wood": 1300000000,
+    "stone": 257900000,
+    "iron": 65700000,
+    "time_seconds": 18547320
+  }
+}

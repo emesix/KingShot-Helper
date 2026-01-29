@@ -1,0 +1,24 @@
+{
+  "tiers": [
+    {"tier": "green",  "star": 0, "satin": 1500,   "threads": 15,   "visions": 0,   "power": 224400},
+    {"tier": "green",  "star": 1, "satin": 3800,   "threads": 40,   "visions": 0,   "power": 306000},
+    {"tier": "blue",   "star": 0, "satin": 7000,   "threads": 70,   "visions": 0,   "power": 408000},
+    {"tier": "blue",   "star": 1, "satin": 9700,   "threads": 95,   "visions": 0,   "power": 510000},
+    {"tier": "blue",   "star": 2, "satin": 1000,   "threads": 10,   "visions": 45,  "power": 612000},
+    {"tier": "blue",   "star": 3, "satin": 1000,   "threads": 10,   "visions": 50,  "power": 714000},
+    {"tier": "purple", "star": 0, "satin": 1500,   "threads": 15,   "visions": 60,  "power": 816000},
+    {"tier": "purple", "star": 1, "satin": 1500,   "threads": 15,   "visions": 70,  "power": 885360},
+    {"tier": "purple", "star": 2, "satin": 6500,   "threads": 65,   "visions": 40,  "power": 954720},
+    {"tier": "purple", "star": 3, "satin": 8000,   "threads": 80,   "visions": 50,  "power": 1024080},
+    {"tier": "mythic", "star": 0, "satin": 15000,  "threads": 150,  "visions": 80,  "power": 1100000},
+    {"tier": "mythic", "star": 1, "satin": 20000,  "threads": 200,  "visions": 100, "power": 1200000},
+    {"tier": "mythic", "star": 2, "satin": 30000,  "threads": 300,  "visions": 120, "power": 1300000},
+    {"tier": "mythic", "star": 3, "satin": 45000,  "threads": 450,  "visions": 150, "power": 1400000},
+    {"tier": "red",    "star": 0, "satin": 108000, "threads": 1080, "visions": 220, "power": 1600000},
+    {"tier": "red",    "star": 1, "satin": 135000, "threads": 1350, "visions": 280, "power": 1800000},
+    {"tier": "red",    "star": 2, "satin": 160000, "threads": 1600, "visions": 320, "power": 2000000},
+    {"tier": "red",    "star": 3, "satin": 183000, "threads": 1830, "visions": 360, "power": 2200000}
+  ],
+  "tc_required": 22,
+  "tier_order": ["green", "blue", "purple", "mythic", "red"]
+}

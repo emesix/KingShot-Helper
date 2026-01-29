@@ -1,0 +1,19 @@
+{
+  "rarity_caps": {
+    "grey": 50,
+    "green": 60,
+    "blue": 70,
+    "purple": 80,
+    "legendary": 100
+  },
+  "advancement_interval": 10,
+  "advancement_items": {
+    "10": {"growth_manuals": 15},
+    "20": {"growth_manuals": 30},
+    "30": {"growth_manuals": 45, "promotion_medallions": 10},
+    "40": {"growth_manuals": 60, "nutrient_potions": 20},
+    "50": {"growth_manuals": 90, "nutrient_potions": 30, "promotion_medallions": 10},
+    "60": {"growth_manuals": 175, "nutrient_potions": 50, "promotion_medallions": 20},
+    "70": {"growth_manuals": 255, "nutrient_potions": 80, "promotion_medallions": 40}
+  }
+}

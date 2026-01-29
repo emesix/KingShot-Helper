@@ -1,0 +1,31 @@
+{
+  "bear_hunt": {
+    "infantry": 0.10,
+    "archer": 0.80,
+    "cavalry": 0.10,
+    "notes": "Max archers for highest Lethality. Infantry/Cavalry are formation filler only."
+  },
+  "pvp_rally": {
+    "infantry": 0.50,
+    "archer": 0.30,
+    "cavalry": 0.20,
+    "notes": "Balanced. Infantry meat shield absorbs damage, archers deal damage, cavalry flanks."
+  },
+  "garrison": {
+    "infantry": 0.70,
+    "archer": 0.00,
+    "cavalry": 0.30,
+    "notes": "No archers on walls (poor defensive stats). Heavy infantry with cavalry support."
+  },
+  "open_field": {
+    "infantry": 0.50,
+    "archer": 0.30,
+    "cavalry": 0.20,
+    "notes": "Same as rally. Cavalry can bypass infantry to hit archers directly."
+  },
+  "hero_recommendations": {
+    "bear_hunt_leaders": ["Helga", "Jabel"],
+    "bear_hunt_joiners": ["Chenko", "Amadeus", "Yeonwoo", "Amane"],
+    "bear_hunt_joiner_note": "Only 4 joiner hero skills count. Send Chenko first if < 4 Chenkos in rally."
+  }
+}
